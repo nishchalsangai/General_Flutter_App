@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982167200520",
+    "project_id": "minimvp-8069d",
+    "storage_bucket": "minimvp-8069d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982167200520:android:356983695a34d5ec7f42bd",
+        "android_client_info": {
+          "package_name": "com.example.mini_mvp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982167200520-d7ssgn8i0dl02j8prplfkgjgqsm30bd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx7AM1mcIX1aVFEv5R0Xujdfm0FqiGZYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982167200520-d7ssgn8i0dl02j8prplfkgjgqsm30bd0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
